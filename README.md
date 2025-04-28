@@ -13,7 +13,7 @@ Revealing seasonal crime trends helps law enforcement plan ahead, allocate resou
 
 ## **The Manipulations Applied to The Data Set as Part of the Analysis:**    
 - Year (2020-2023 to disclude possible bias)
-- Crime description (5 crimes with most volatility)
+- Crime description (5 crimes with most volatility throughout the year)
 
 ## **Analysis and Results:**   
 Assault:  
