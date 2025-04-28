@@ -14,6 +14,8 @@ Revealing seasonal crime trends helps law enforcement plan ahead, allocate resou
 **Question 2: To what proportion are men and women victims of crimes involving different weapons?**  
 
 Helps identify gender-based vulnerability to weapon-related crimes and supports more targeted safety policies and victim support programs.  
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/a6fbeb36-3976-4efa-a2eb-68327e6d6bb4" />
+
 
 ## **The Manipulations Applied to The Data Set as Part of the Analysis:**  
 
