@@ -16,6 +16,8 @@ Revealing seasonal crime trends helps law enforcement plan ahead, allocate resou
 Helps identify gender-based vulnerability to weapon-related crimes and supports more targeted safety policies and victim support programs.  
 <img width="1404" alt="image" src="https://github.com/user-attachments/assets/a6fbeb36-3976-4efa-a2eb-68327e6d6bb4" />  
 <img width="1388" alt="image" src="https://github.com/user-attachments/assets/b7fee18f-8d25-459b-bc49-dee588a7ec43" />
+<img width="1320" alt="image" src="https://github.com/user-attachments/assets/c898628d-a6e3-4003-a871-e5b4c279e821" />
+
 
 
 
@@ -28,7 +30,7 @@ Helps identify gender-based vulnerability to weapon-related crimes and supports 
 **Question 2:**  
 - Victim sex (male, female)
 - Weapon Description (discludes "null")
-- Crime count (count < 6k)
+- Crime count (count < 10k)
 
 ## **Analysis and Results:**  
 **Question 1:**  
