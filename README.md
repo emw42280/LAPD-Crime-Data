@@ -26,4 +26,30 @@ Helps identify gender-based vulnerability to weapon-related crimes and supports 
 - Weapon Description (discludes "null")
 - Crime count (count < 6k)
 
+## **Analysis and Results:**  
+**Question 1:**  
+
+Assault:  
+- Appears to peak in the summer consistently
+
+Battery:  
+- Crimes involving battery appear to decrease with the start of the new year and increases in warmer months
+
+Burglary:  
+- Peaked during spring 2020, with covid locksdowns.
+
+Vandalism:  
+- Remained stable year round (2020, 2023), peaked in summer (2021), Peaked in spring (2022)
+
+Stolen Vehicles:  
+- Increased during covid lockdown. In 2021 & 2023 peak months were October-November
+
+**Question 2:**  
+The data indicates that men have a higher likelihood of being victims of these violent crimes than women.  
+Data points that stand out in the set:  
+- The dataset separates handgun crimes from pistol crimes. For some reason, handgun crimes only include female victims (zero records of male victims). However, men are included as victims of pistol crimes, where they make up the majority.
+
+
+
+
 
