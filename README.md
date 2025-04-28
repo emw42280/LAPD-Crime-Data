@@ -12,6 +12,12 @@ The dataset we’re using represents crime statistics in Los Angeles as reported
 
 <img width="1401" alt="image" src="https://github.com/user-attachments/assets/92301bcb-846b-4201-958a-d4c8cb0b2bfe" />
 
+## **Selecting The Crimes We Focused On**  
+<img width="1329" alt="image" src="https://github.com/user-attachments/assets/bdb7cd55-b9c5-4623-acd4-e83d2505dae4" />  
+We chose the five crimes with the highest frequency of occurence. The data with these crimes is more reliable to answer our general question of patterns as the crimes occur more.  
+- We discluded identity theft because..
+- We discluded burglary from vehicle because we already included general burglary
+
 
 
 ## **Why This Question is Interesting and Important:**
