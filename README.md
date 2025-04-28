@@ -31,6 +31,13 @@ Vandalism:
 Stolen Vehicles:  
 - Increased during covid lockdown. In 2021 & 2023 peak months were October-November
 
+## **Possible Bias:**  
+The data seems to cut off in 2023  
+- To avoid any bias, we filtered the data to include only 2020-2023
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/5f4d8427-cff7-4f9c-bb96-f9622d9824f8" />
+
+
 
 
 # **Question 2: To what proportion are men and women victims of crimes involving different weapons?**  
