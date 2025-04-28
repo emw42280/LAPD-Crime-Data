@@ -38,8 +38,9 @@ Stolen Vehicles:
 - Increased during covid lockdown. In 2021 & 2023 peak months were October-November
 
 ## **Possible Bias:**  
-The data seems to cut off in 2023  
-- To avoid any bias, we filtered the data to include only 2020-2023
+The frequency of our selected violent crimes appears to drastically fall off after 2023. We’re not sure if this is an accurate representation, possibly a hole in the dataset.
+
+To avoid potential error, we filtered the Year variable to 2020-2023 for Question 1, excluding 2024.
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/5f4d8427-cff7-4f9c-bb96-f9622d9824f8" />
 
