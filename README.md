@@ -37,7 +37,7 @@ Battery:
 
 Burglary:  
 - Burglaries slightly increase during the summer months, peaking around June and July. There is a drop-off during the early part of the year (February and March) and again in late fall and winter. This pattern supports the idea that burglary is higher when people are more likely to be away from home during vacations.
-- Another side point we discovered was that start of when COVID-19 lockdowns were implemented, there was significant spike of burglaires from April 2020 to June 2020. We believe this can be due to looting and such associated during that time.
+- Another side point we discovered was that during the start of when COVID-19 lockdowns were implemented, there was significant spike of burglaires from April 2020 to June 2020. We believe this can be due to looting and such associated during that time.
 
 Vandalism:  
 - Vandalism cases stay relatively steady throughout the year but show slight rises in the spring and early summer (April to July) and drop off during the colder months. This trend suggests that vandalism may correlate with increased outdoor presence and less deterrent from cold weather.
