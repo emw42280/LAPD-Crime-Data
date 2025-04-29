@@ -43,8 +43,7 @@ Vandalism:
 - Vandalism cases stay relatively steady throughout the year but show slight rises in the spring and early summer (April to July) and drop off during the colder months. This trend suggests that vandalism may correlate with increased outdoor presence and less deterrent from cold weather.
 
 Stolen Vehicles:  
-- Stolen vehicle reports show the strongest seasonal pattern, peaking sharply in the summer, especially in August, and remaining higher through fall. The lowest numbers occur during the winter (especially February). This indicates that warmer months may see increased vehicle theft, possibly due to more travel and more vehicles being left unattended.
-
+- Stolen vehicle reports show the strongest seasonal pattern, peaking sharply in the summer, especially in August, and remaining higher through fall. The lowest numbers occur during the winter (especially February). Additionally, the extended daylight hours and higher levels of outdoor activity during the summer months may create more opportunities for theft, contributing to the seasonal spike.
 
 ## **Possible Bias:**  
 The frequency of our selected violent crimes appears to drastically fall off after 2023. We’re not sure if this is an accurate representation, possibly a hole in the dataset.
