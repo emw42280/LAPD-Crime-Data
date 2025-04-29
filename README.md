@@ -16,33 +16,34 @@ The dataset we’re using represents crime statistics in Los Angeles as reported
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/bdb7cd55-b9c5-4623-acd4-e83d2505dae4" />  
 We chose the five crimes with the highest frequency of occurence. The data with these crimes is more reliable to answer our general question of patterns as the crimes occur more.  
 
-- We discluded identity theft because..
+- We discluded identity theft because it doesn't behave the same way seasonally as the physical crimes we're studying, so including it would dilute our insights
 - We discluded burglary from vehicle because we already included general burglary
 
 
 
 ## **Why This Question is Interesting and Important:**
-Revealing seasonal crime trends helps law enforcement plan ahead, allocate resources, and raise public awareness during high-risk months.
+Identifying seasonal patterns in assault, battery, burglary, vandalism, and vehicle theft helps law enforcement plan ahead, allocate resources efficiently, and launch targeted public awareness efforts during high-risk months. By anticipating when certain crimes are more likely to occur, agencies can increase patrols, adjust staffing, and encourage preventative actions from the community. This leads to more effective crime prevention, better resource management, and improved public safety outcomes.  
 
 ## **The Manipulations Applied to The Data Set as Part of the Analysis:**    
 - Year (2020-2023 to disclude possible bias)
-- Crime description (5 crimes with most volatility throughout the year)
+- Crime description (5 crimes with highest frequency of occurence)
 
 ## **Analysis and Results:**   
 Assault:  
-- Appears to peak in the summer consistently
+- Assaults show a small seasonal peak in the summer months, particularly in July, with a noticeable dip during the winter months (February and December). This suggests that assaults may increase slightly with warmer weather, possibly due to more outdoor activities and social interactions.
 
 Battery:  
-- Crimes involving battery appear to decrease with the start of the new year and increases in warmer months
+- Simple battery incidents follow a similar pattern to assault, with higher counts during the summer (June and July) and a decline in the winter (especially February). The peak in the summer months indicates that battery incidents may also be influenced by seasonal social activity.
 
 Burglary:  
-- Peaked during spring 2020, with covid locksdowns.
+- Burglaries slightly increase during the summer months, peaking around June and July. There is a drop-off during the early part of the year (February and March) and again in late fall and winter. This pattern supports the idea that burglary is higher when people are more likely to be away from home during vacations.
 
 Vandalism:  
-- Remained stable year round (2020, 2023), peaked in summer (2021), Peaked in spring (2022)
+- Vandalism cases stay relatively steady throughout the year but show slight rises in the spring and early summer (April to July) and drop off during the colder months. This trend suggests that vandalism may correlate with increased outdoor presence and less deterrent from cold weather.
 
 Stolen Vehicles:  
-- Increased during covid lockdown. In 2021 & 2023 peak months were October-November
+- Stolen vehicle reports show the strongest seasonal pattern, peaking sharply in the summer, especially in August, and remaining higher through fall. The lowest numbers occur during the winter (especially February). This indicates that warmer months may see increased vehicle theft, possibly due to more travel and more vehicles being left unattended.
+
 
 ## **Possible Bias:**  
 The frequency of our selected violent crimes appears to drastically fall off after 2023. We’re not sure if this is an accurate representation, possibly a hole in the dataset.
