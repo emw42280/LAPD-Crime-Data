@@ -74,7 +74,7 @@ Understanding the proportion of male and female victims in crimes involving diff
 - Crime count (visualization 1: count < 10k) (visualization 2: count > 10k)
 
 ## **Analysis and Results:** 
-The data indicates that men have a consistently higher likelihood of being victims of violent crimes involving weapons compared to women. Across almost every weapon category — including firearms, knives, blunt objects, and physical force — male victims outnumber female victims. This trend highlights a significant gender imbalance in exposure to violent crime.
+The data indicates that men have a consistently higher likelihood of being victims of violent crimes involving weapons compared to women. Across almost every weapon category — including firearms, knives, blunt objects, and physical force — male victims outnumber female victims. This pattern may reflect broader societal factors such as differences in behavior, occupation, or exposure to high-risk environments.
 
  **Notable Data Observations:**
 
