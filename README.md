@@ -5,7 +5,7 @@
 The dataset we’re using represents crime statistics in Los Angeles as reported by the LAPD, with dates ranging from the year 2020 to 2024. Within the dataset are variables such as the type of crime committed, the year the crime was committed, the sex of the victim, the type of weapon used, and more. This dataset was created by the request of the FBI and is utilized by them today.  
 
 # **Question 1: How do monthly crime patterns for assault, battery, burglary, vandalism, and stolen vehicles differ by month/season, and are there consistent seasonal peaks?**  
-## Visualization 1: Monthly Data from 2020-2023
+## Visualization 1: Monthly Data (2020-2023)
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/86db3e62-46fa-4089-909d-aac2549d250f" />  
 
 ## Visualization 2: Monthly Data By Year (2020-2023)  
