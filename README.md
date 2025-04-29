@@ -65,7 +65,7 @@ To avoid potential error, we filtered the Year variable to 2020-2023 for Questio
 <img width="1320" alt="image" src="https://github.com/user-attachments/assets/c898628d-a6e3-4003-a871-e5b4c279e821" />
 
 ## **Why This Question is Interesting and Important:**  
-Helps identify gender-based vulnerability to weapon-related crimes and supports more targeted safety policies and victim support programs.
+Understanding the proportion of male and female victims in crimes involving different weapons sheds light on gender-based vulnerabilities and risks. Certain weapons may disproportionately affect one gender over another, revealing important patterns in how violence is carried out. This information is critical for designing more targeted public safety policies, law enforcement training, and community outreach programs. For example, if women are disproportionately victimized in crimes involving certain weapons, resources can be focused on prevention strategies and support services tailored to their needs. Additionally, identifying these patterns supports more equitable victim assistance programs and ensures that interventions are backed by data, ultimately leading to safer and more informed communities.
 
 ## **The Manipulations Applied to The Data Set as Part of the Analysis:**   
 - Victim sex (male, female)
@@ -73,9 +73,23 @@ Helps identify gender-based vulnerability to weapon-related crimes and supports 
 - Crime count (visualization 1: count < 10k) (visualization 2: count > 10k)
 
 ## **Analysis and Results:** 
-The data indicates that men have a higher likelihood of being victims of these violent crimes than women.  
-Data points that stand out in the set:  
-- The dataset separates handgun crimes from pistol crimes. For some reason, handgun crimes only include female victims (zero records of male victims). However, men are included as victims of pistol crimes, where they make up the majority.
+The data indicates that men have a consistently higher likelihood of being victims of violent crimes involving weapons compared to women. Across almost every weapon category — including firearms, knives, blunt objects, and physical force — male victims outnumber female victims. This trend highlights a significant gender imbalance in exposure to violent crime.
+
+ **Notable Data Observations:**
+
+Handgun vs. Pistol Victimization:
+- A surprising distinction appears in the dataset between "handgun" and "pistol" crimes. For "handgun" incidents, there are only female victims recorded — no male victims are associated with this weapon category. This is an unusual outlier given the broader trends.
+In contrast, "pistol" crimes (which are generally considered the same or very similar weapon type) show a male-majority victimization, consistent with the overall pattern of the dataset.
+
+Potential Data Entry or Classification Issue:
+- The separation between "handgun" and "pistol" could be due to inconsistencies or differences in how weapons were classified during police reporting. This raises a possible concern about the reliability of weapon categorization and suggests that some caution is needed when interpreting these specific categories.
+
+Overall Weapon Trends:
+- For high-frequency weapon types such as kitchen knives, blunt instruments (e.g., hammers), and physical attacks without weapons, male victims consistently dominate the counts.
+In categories like mace/pepper spray and some cutting instruments, the gender gap is narrower, but men still slightly outnumber women.
+
+**Summary:**
+While the overall data shows men are more likely to be victims of weapon-involved crimes, some anomalies — like the "handgun" category — highlight potential areas where data reporting or classification methods may have introduced inconsistencies.
 
 
 
