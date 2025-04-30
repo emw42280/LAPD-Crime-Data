@@ -10,7 +10,7 @@ The dataset we’re using represents crime statistics in Los Angeles as reported
 - crime premisis description
 - weapon used (if applicable)
 
-## **A Screenshot of the Dataset:**  
+## **Screenshots of the Dataset:**  
 
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/ec270466-bdb8-4077-b054-68d6d924d569" />  
 <img width="1417" alt="image" src="https://github.com/user-attachments/assets/9889a2ea-63b0-4f81-95b2-c82cf3c39e59" />  
