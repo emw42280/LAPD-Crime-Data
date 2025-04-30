@@ -2,9 +2,20 @@
 
 ## **Describing Our Dataset and What Data it Contains:**
 
-The dataset we’re using represents crime statistics in Los Angeles as reported by the LAPD, with dates ranging from the year 2020 to 2024. Within the dataset are variables such as the type of crime committed, the year the crime was committed, the sex of the victim, the type of weapon used, and more. This dataset was created by the request of the FBI and is utilized by them today.  
+The dataset we’re using represents crime statistics in Los Angeles as reported by the LAPD, with dates ranging from the year 2020 to 2024. This dataset was created by the request of the FBI and is utilized by them today. Within the dataset are variables such as:  
+- time / date of crime
+- crime description
+- victim age
+- victim sex
+- crime premisis description
+- weapon used (if applicable)
+
+## **A Screenshot of the Dataset:**  
+
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/ec270466-bdb8-4077-b054-68d6d924d569" />  
-<img width="1417" alt="image" src="https://github.com/user-attachments/assets/9889a2ea-63b0-4f81-95b2-c82cf3c39e59" />
+<img width="1417" alt="image" src="https://github.com/user-attachments/assets/9889a2ea-63b0-4f81-95b2-c82cf3c39e59" />  
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/67563e37-6172-4357-afc9-52dbed1626e4" />
+
 
 
 
